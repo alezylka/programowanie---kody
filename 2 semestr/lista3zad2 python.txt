@@ -1,0 +1,16 @@
+"""
+0. Mamy napis.
+1. Niech n := dlugosc(napis)
+2. Jesli n jest równe zero lub n nie jest liczba parzysta:
+3. Zwracamy wartosc FAŁSZ i algorytm konczy sie.
+4. W przeciwnym wypadku:
+5. Niech i :=0
+6. Dopóki i jest mniejsze niz n/2:
+7. Jesli element tablicy na pozycji i jest rózny od 'a'
+lub element tablicy na pozycji (n-i-1) jest rózny od 'b':
+8. Zwracamy wartosc FAŁSZ i algorytm konczy sie.
+9. W przeciwnym wypadku:
+10. Zwiekszamy i o 1.
+11. Wracamy do pkt 6.
+12. Zwracamy wartosc PRAWDA i algorytm konczy sie.
+"""
