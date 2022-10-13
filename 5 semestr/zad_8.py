@@ -32,9 +32,7 @@ def readtable(plik):
     #return xs, ys -> powoduje, ze listy się 'sklejają"
     # i rezultat działania funkcji wygląda nieestetycznie
     print(tab_xs)
-    print(tab_ys)
-    print("hello:")
-      
+    print(tab_ys)      
     
 
 print(readtable('5 semestr\\x i y.csv'))
