@@ -33,6 +33,7 @@ def readtable(plik):
     # i rezultat działania funkcji wygląda nieestetycznie
     print(tab_xs)
     print(tab_ys)
+    print("hello:")
       
     
 
